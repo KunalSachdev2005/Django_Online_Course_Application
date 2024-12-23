@@ -1,16 +1,55 @@
-# Django_Online_Course_Application
+# Online Course Application
 
-**General Notes**
+This repository contains the implementation of an Online Course Application developed using Django. It demonstrates a full-stack approach to building web applications, showcasing server-side logic, database integration, and front-end development. The application includes a newly implemented feature for course assessments, providing users with the ability to participate in exams and view results.
 
-An `onlinecourse` app has already been provided in this repo upon which you will be adding a new assesement feature.
+## Table of Contents
+- [Overview](#overview)
+- [Entity-Relationship Diagram](#entity-relationship-diagram)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Course Certificate](#course-certificate)
 
-- If you want to develop the final project on Theia hosted by [IBM Developer Skills Network](https://labs.cognitiveclass.ai/), you will need to create the same project structure on Theia workspace and save it everytime you close the browser
-- Or you could develop the final project locally by setting up your own Python runtime and IDE
-- Hints for the final project are left on source code files
-- You may choose any cloud platform for deployment (default is IBM Cloud Foundry)
-- Depends on your deployment, you may choose any SQL database Django supported such as SQLite3, PostgreSQL, and MySQL (default is SQLite3)
+## Overview
+The Online Course Application is designed to manage and deliver online courses, including exams and assessments. This feature enables users to:
+1. View course details.
+2. Attempt exams linked to courses.
+3. Submit answers and view results.
 
-**ER Diagram**
-For your reference, we have prepared the ER diagram design for the new assesement feature.
+## Entity-Relationship Diagram
+
+The ER diagram for the application illustrates the relationships between Courses, Exams, Questions, and Submissions. 
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
+
+## Features
+
+1. **Index Page**: Displays all courses.
+   ![Index Page](images/index_page.png)
+
+2. **Login Page**: Allows users to log in.
+   ![Login Page](images/login_page.png)
+
+3. **Logged-In Page**: Shows personalized user dashboard.
+   ![Logged-In Page](images/logged_in_page.png)
+
+4. **Course Details View**: Displays course info and associated exams.
+   ![Course Details View](images/course_details_view.png)
+
+5. **Course Details with Exam**: Includes options to attempt exams.
+   ![Course Details with Exam](images/course_details_view_with_exam.png)
+
+6. **Exam Results**: Displays user scores and answers.
+   ![Exam Results](images/exam_results.png)
+
+7. **Admin Site**: For managing courses and assessments.
+   ![Admin Site](images/admin_site.png)
+
+## Technologies Used
+- **Django**: Framework for back-end development.
+- **SQLite**: Database for storing application data.
+- **HTML/CSS**: Front-end structure and styling.
+- **Bootstrap**: Responsive design.
+- **GitHub**: Version control and project hosting.
+
+## Course Certificate
+You can view the course certificate [here](Django_Application_Development_with_SQL_&_Databases.pdf).
