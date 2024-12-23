@@ -54,19 +54,23 @@ The ER diagram for the application illustrates the relationships between Courses
    
    ![Logged-In Page](images/logged_in_page.png)
 
+6. **Registration Page**:
+   
+   ![Logged-In Page](images/registration_page.png)
+
 7. **Course Details View**: Displays course info and associated exam.
    
    ![Course Details View](images/course_details_view.png)
 
-9. **Course Details with Exam**: Attempting the exam.
+8. **Course Details with Exam**: Attempting the exam.
     
    ![Course Details with Exam](images/course_details_view_with_exam.png)
 
-11. **Exam Results**: Displays user scores and answers.
+9. **Exam Results**: Displays user scores and answers.
     
    ![Exam Results](images/exam_results.png)
 
-13. **Admin Site**: For managing ORM models.
+10. **Admin Site**: For managing ORM models.
     
    ![Admin Site](images/admin_site.png)
 
