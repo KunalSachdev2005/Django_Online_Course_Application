@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Django_Online_Course_Application
 
 **General Notes**
@@ -16,4 +15,3 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
 =======
->>>>>>> c0d137aef48642f7198b34984151c9b0e5d4458e
