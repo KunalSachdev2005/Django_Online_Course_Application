@@ -2,6 +2,8 @@
 
 This repository contains the implementation of an Online Course Application developed using Django. It demonstrates a full-stack approach to building web applications, showcasing server-side logic, database integration, and front-end development. The application includes a newly implemented feature for course assessments, providing users with the ability to participate in exams and view results.
 
+---
+
 ## Table of Contents
 - [Overview](#overview)
 - [Entity-Relationship Diagram](#entity-relationship-diagram)
@@ -9,17 +11,26 @@ This repository contains the implementation of an Online Course Application deve
 - [Technologies Used](#technologies-used)
 - [Course Certificate](#course-certificate)
 
+---
+
+
 ## Overview
 The Online Course Application is designed to manage and deliver online courses, including exams and assessments. This feature enables users to:
 1. View course details.
 2. Attempt exams linked to courses.
 3. Submit answers and view results.
 
+---
+
+
 ## Entity-Relationship Diagram
 
 The ER diagram for the application illustrates the relationships between Courses, Exams, Questions, and Submissions. 
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
+
+---
+
 
 ## Features
 
@@ -51,12 +62,18 @@ The ER diagram for the application illustrates the relationships between Courses
     
    ![Admin Site](images/admin_site.png)
 
+---
+
+
 ## Technologies Used
 - **Django**: Framework for back-end development.
 - **SQLite**: Database for storing application data.
 - **HTML/CSS**: Front-end structure and styling.
 - **Bootstrap**: Responsive design.
 - **GitHub**: Version control and project hosting.
+
+---
+
 
 ## Course Certificate
 You can view the course certificate [here](Django_Application_Development_with_SQL_&_Databases.pdf).
