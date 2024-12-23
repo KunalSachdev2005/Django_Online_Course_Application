@@ -58,7 +58,7 @@ The ER diagram for the application illustrates the relationships between Courses
    
    ![Logged-In Page](images/registration_page.png)
 
-7. **Course Details View**: Displays course info and associated exam.
+7. **Course Details View**: Displays course lessons and associated exam.
    
    ![Course Details View](images/course_details_view.png)
 
