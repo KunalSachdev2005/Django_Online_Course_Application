@@ -7,8 +7,8 @@ This repository contains the implementation of an Online Course Application deve
 ## Table of Contents
 - [Overview](#overview)
 - [Entity-Relationship Diagram](#entity-relationship-diagram)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Features](#features)
 - [Course Certificate](#course-certificate)
 
 ---
@@ -31,40 +31,6 @@ The ER diagram for the application illustrates the relationships between Courses
 
 ---
 
-
-## Features
-
-1. **Index Page**: Displays all courses.
-   
-   ![Index Page](images/index_page.png)
-
-3. **Login Page**: Allows users to log in.
-   
-   ![Login Page](images/login_page.png)
-
-5. **Logged-In Page**: Shows personalized user dashboard.
-   
-   ![Logged-In Page](images/logged_in_page.png)
-
-7. **Course Details View**: Displays course info and associated exams.
-   
-   ![Course Details View](images/course_details_view.png)
-
-9. **Course Details with Exam**: Includes options to attempt exams.
-    
-   ![Course Details with Exam](images/course_details_view_with_exam.png)
-
-11. **Exam Results**: Displays user scores and answers.
-    
-   ![Exam Results](images/exam_results.png)
-
-13. **Admin Site**: For managing courses and assessments.
-    
-   ![Admin Site](images/admin_site.png)
-
----
-
-
 ## Technologies Used
 - **Django**: Framework for back-end development.
 - **SQLite**: Database for storing application data.
@@ -74,6 +40,37 @@ The ER diagram for the application illustrates the relationships between Courses
 
 ---
 
+## Features
+
+1. **Index Page**: Displays courses, enroll, login, sign up.
+   
+   ![Index Page](images/index_page.png)
+
+3. **Login Page**: Allows users to log in.
+   
+   ![Login Page](images/login_page.png)
+
+5. **Logged-In Page**:
+   
+   ![Logged-In Page](images/logged_in_page.png)
+
+7. **Course Details View**: Displays course info and associated exam.
+   
+   ![Course Details View](images/course_details_view.png)
+
+9. **Course Details with Exam**: Attempting the exam.
+    
+   ![Course Details with Exam](images/course_details_view_with_exam.png)
+
+11. **Exam Results**: Displays user scores and answers.
+    
+   ![Exam Results](images/exam_results.png)
+
+13. **Admin Site**: For managing ORM models.
+    
+   ![Admin Site](images/admin_site.png)
+
+---
 
 ## Course Certificate
 You can view the course certificate [here](Django_Application_Development_with_SQL_&_Databases.pdf).
