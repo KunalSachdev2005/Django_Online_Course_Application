@@ -1,6 +1,6 @@
 # Online Course Application
 
-This repository contains the implementation of an Online Course Application developed using Django. It demonstrates a full-stack approach to building web applications, showcasing server-side logic, database integration, and front-end development. The application includes a newly implemented feature for course assessments, providing users with the ability to participate in exams and view results.
+This repository contains the implementation of an Cloub-based Course Application developed using Django. It demonstrates a full-stack approach to building web applications, showcasing server-side logic, database integration, and front-end development. The application includes a newly implemented feature for course exams, providing users with the ability to participate in exams and view results.
 
 ---
 
